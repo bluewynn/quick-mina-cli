@@ -1,0 +1,17 @@
+{
+  "name": "wxmina-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "cli-demo": "./index.js"
+  },
+  "dependencies": {
+    "@moyuyc/inquirer-autocomplete-prompt": "^1.3.2",
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "fuzzy": "^0.1.3",
+    "inquirer": "^8.0.0",
+    "json-format": "^1.0.1"
+  }
+}
